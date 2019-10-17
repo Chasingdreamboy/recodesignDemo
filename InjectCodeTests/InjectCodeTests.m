@@ -1,18 +1,18 @@
 //
-//  WeChatTests.m
-//  WeChatTests
+//  InjectCodeTests.m
+//  InjectCodeTests
 //
-//  Created by Ericydong on 2019/10/15.
+//  Created by Ericydong on 2019/10/17.
 //  Copyright © 2019 Ericydong. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface WeChatTests : XCTestCase
+@interface InjectCodeTests : XCTestCase
 
 @end
 
-@implementation WeChatTests
+@implementation InjectCodeTests
 
 - (void)setUp {
     // Put setup code here. This method is called before the invocation of each test method in the class.
